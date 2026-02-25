@@ -1,4 +1,4 @@
-# Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Cauã, and this is my profile!<br>
+# Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"><br><br> I'm Bruno, welcome to my profile!<br>
 
 - 👨‍💻 Currently studying software development!
 - 🚀 Always striving to improve and build increasingly professional projects  
